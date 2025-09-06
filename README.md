@@ -1,54 +1,51 @@
-# Awesome Prompts 🚀
+# 🌟 Awesome Prompts
 
 A curated collection of **ready-to-use AI prompts** for developers, creators, and learners.  
 These prompts are designed to save you time, boost productivity, and spark creativity.  
 
-> ✨ This repo is updated regularly with the same prompts I use and share on my [YouTube channel](https://www.youtube.com/@xplatformtech).  
+> 🚀 Updated regularly with prompts featured on my [YouTube channel](https://www.youtube.com/@xplatformtech).
 
 ---
 
-## 📌 Categories
+## 📂 Categories
 
-- 💻 **Coding & Debugging**  
-- 🎨 **Creative Writing & Content**  
-- 🤖 **AI Tools & Workflows**  
-- 📱 **App Development Prompts** (Android, Flutter, React Native)  
-- ⚡ **Productivity Hacks**  
+Browse prompts by category:
+
+- 💻 [Coding & Development](coding/coding-prompts.md)  
+- 🤖 [AI Tools & Productivity](ai-tools/ai-tools-prompts.md)  
+- 📚 [Learning & Teaching](learning/learning-prompts.md)  
+- 🎨 [Creative & Content](creative/creative-prompts.md)  
+- ⚡ [Fun & Games](fun/fun-prompts.md)  
 
 ---
 
 ## 🚀 How to Use
 
-1. Browse the categories in this repo.  
-2. Copy a prompt and paste it into your favorite AI tool (ChatGPT, Gemini, Claude, etc.).  
-3. Modify as needed for your project or workflow.  
-
----
-
-## 📺 Featured On YouTube
-
-I break down these prompts and show **real-world use cases** on my YouTube channel:  
-👉 [Subscribe here](https://www.youtube.com/@xplatformtech) for weekly dev + AI tutorials.
+1. Click on a category above  
+2. Copy the prompt you like  
+3. Paste it into your favorite AI tool (ChatGPT, Gemini, Claude, etc.)  
+4. Modify as needed for your use case  
 
 ---
 
 ## 🤝 Contribute
 
 Want to share your own powerful prompts?  
-- Fork this repo  
-- Add your prompt in the correct category folder  
-- Create a Pull Request  
 
-Together, we’ll build the **#1 open-source prompts library**.  
+1. Fork this repo  
+2. Add your prompt in the correct category file  
+3. Create a Pull Request  
+
+Together, we’ll build the **#1 open-source prompts library** 🎉
 
 ---
 
 ## ⭐ Support
 
 If you find this repo useful:  
-- Star ⭐ this repo on GitHub  
-- Share it with your dev friends  
-- Subscribe on YouTube for more  
+- Star ⭐ the repo on GitHub  
+- Share with your friends  
+- Subscribe on [YouTube](https://www.youtube.com/@xplatformtech) for weekly dev + AI tutorials  
 
 ---
 
