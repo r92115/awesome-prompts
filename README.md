@@ -1,39 +1,89 @@
 # 🌟 Awesome Prompts
 
-A curated collection of **ready-to-use AI prompts** for developers, creators, and learners.  
-These prompts are designed to save you time, boost productivity, and spark creativity.  
+A compreh### Photography & Scenes
+- 🌅 [Nature & Landscapes](image-generation/nature_landscapes/nature_landscapes.md) - Professional landscape photography
+- 👥 [People & Portraits](image-generation/people_portraits/people_portraits.md) - Portrait and fashion photography
 
-🚀 Maintained by **[X Platform Tech](https://www.youtube.com/@xplatformtech)** – subscribe for weekly tutorials on **Mobile Development, AI Tools, and No-Code Workflows**.  
+### 🎎 Professional Figurines
+Learn to generate professional-grade figurine images with our comprehensive guide: [Figurines & Editorials](image-generation/figurine/figurines-and-editorials.md)
+
+#### Figurine Categories
+- **Collector Figures**
+  - 1/7 Scale PVC Statues
+  - Display Bases & Packaging
+  - Studio Photography
+- **Editorial Integration**
+  - Figure with Person
+  - Production Showcase
+  - Workspace Setups
+- **Scene Types**
+  - Product Photography
+  - Lifestyle Shots
+  - Technical Documentation
+
+#### Technical Specifications
+- Scale: 1/7 (20-25cm height)
+- Materials: PVC/ABS simulation
+- Base: 15cm acrylic
+- Packaging: 32x20x20cm
+- Resolution: 8K minimum
+- Lighting: 3-point product setup
+
+#### Best Practices
+- Accurate scale representation
+- Professional lighting setups
+- Material quality simulation
+- Precise shadow casting
+- Realistic reflections
+- Package design standardsve collection of **professional-grade AI prompts** for developers, creators, and digital artists.  
+These prompts are meticulously crafted to produce high-quality outputs across various domains.
+
+🚀 Maintained by **[X Platform Tech](https://www.youtube.com/@xplatformtech)** – Your resource for **AI Tools, Development, and Creative Workflows**.
+
+## ✨ Features
+- 📝 Detailed prompt structures
+- 🎯 Technical specifications
+- 🎨 Professional guidelines
+- 🛠️ Best practices
+- 📚 Industry standards
 
 ---
 
 ## 📂 Categories
 
-Browse prompts by category:
+### 💡 Development & AI
+- 💻 [Coding & Development](coding/coding-prompts.md) - Programming and development workflows
+- 🤖 [AI Tools & Productivity](ai-tools/ai-tools-prompts.md) - AI-powered automation and tools
+- 📚 [Learning & Teaching](learning/learning-prompts.md) - Educational resources and tutorials
+- 🎨 [Creative & Content](creative/creative-prompts.md) - Content creation and creative writing
+- ⚡ [Fun & Games](fun/fun-prompts.md) - Entertainment and gaming prompts
 
-- 💻 [Coding & Development](coding/coding-prompts.md)  
-- 🤖 [AI Tools & Productivity](ai-tools/ai-tools-prompts.md)  
-- 📚 [Learning & Teaching](learning/learning-prompts.md)  
-- 🎨 [Creative & Content](creative/creative-prompts.md)  
-- ⚡ [Fun & Games](fun/fun-prompts.md)  
-- 🖼️ Image Generation
-  - 🎨 [UI & App Mockups](image-generation/ui_app_mockups/ui_app_mockups.md)
-  - 🖥️ [App Icons](image-generation/app_icons/app_icons.md)
-  - 🌅 [Nature & Landscapes](image-generation/nature_landscapes/nature_landscapes.md)
-  - 👥 [People & Portraits](image-generation/people_portraits/people_portraits.md)
-  - 🎯 [Products & E-commerce](image-generation/products_ecommerce/products_ecommerce.md)
-  - 🎪 [Posters & Graphics](image-generation/posters_graphics/posters_graphics.md)
-  - 🐾 [Animals Creative](image-generation/animals_creative/)
-    - 🐱 [Cats](image-generation/animals_creative/cats/cats.md)
-    - 🐕 [Dogs](image-generation/animals_creative/dogs/dogs.md)
-    - 🦁 [Lions](image-generation/animals_creative/lions/lions.md)
-    - 🐒 [Monkeys](image-generation/animals_creative/monkeys/monkeys.md)
-    - 🦊 [Other Animals](image-generation/animals_creative/other_animals/other_animals.md)
-  - 🔄 [Background Replacements](image-generation/background_replacements/background_replacements.md)
-  - ➕ [Add Objects](image-generation/add_objects/add_objects.md)
-  - ➖ [Remove Objects](image-generation/remove_objects/remove_objects.md)
-  - 🎮 [Fun Creative](image-generation/fun_creative/fun_creative.md)
-  - 💻 [Tech Creative](image-generation/animals_creative/tech_creative/tech_creative.md)
+### 🎨 Professional Image Generation
+#### UI & Design
+- � [UI & App Mockups](image-generation/ui_app_mockups/ui_app_mockups.md) - Professional UI/UX designs
+- 🖥️ [App Icons](image-generation/app_icons/app_icons.md) - Platform-optimized app icons
+- 🎪 [Posters & Graphics](image-generation/posters_graphics/posters_graphics.md) - Marketing materials
+
+#### Photography & Scenes
+- 🌅 [Nature & Landscapes](image-generation/nature_landscapes/nature_landscapes.md) - Professional landscape photography
+- 👥 [People & Portraits](image-generation/people_portraits/people_portraits.md) - Portrait and fashion photography
+- � [Figurines & Editorials](image-generation/figurine/figurines-and-editorials.md) - Professional figurine and editorial shots
+
+#### Product & Commercial
+- 🛍️ [Products & E-commerce](image-generation/products_ecommerce/products_ecommerce.md) - Product photography
+- 🖼️ [Background Replacements](image-generation/background_replacements/background_replacements.md) - Professional backgrounds
+- ➕ [Add Objects](image-generation/add_objects/add_objects.md) - Object integration techniques
+- ➖ [Remove Objects](image-generation/remove_objects/remove_objects.md) - Clean object removal
+
+#### Creative & Special
+- 🐾 [Animals Creative](image-generation/animals_creative/) - Animal photography & art
+  - 🐱 [Cats](image-generation/animals_creative/cats/cats.md) - Feline photography
+  - 🐕 [Dogs](image-generation/animals_creative/dogs/dogs.md) - Canine photography
+  - 🦁 [Lions](image-generation/animals_creative/lions/lions.md) - Wildlife shots
+  - 🐒 [Monkeys](image-generation/animals_creative/monkeys/monkeys.md) - Primate photography
+  - 🦊 [Other Animals](image-generation/animals_creative/other_animals/other_animals.md) - Various species
+- 🎮 [Fun Creative](image-generation/fun_creative/fun_creative.md) - Creative experiments
+- 💻 [Tech Creative](image-generation/animals_creative/tech_creative/tech_creative.md) - Technology-focused shots
 
 ---
 
@@ -110,35 +160,118 @@ Use the **S.A.C.S. framework**:
 
 ---
 
-## 🚀 How to Use
+## 🚀 Getting Started
 
-1. Click on a category above or copy from the Gemini section  
-2. Paste the prompt into your favorite AI tool (Gemini, ChatGPT, Midjourney, etc.)  
-3. Edit the **S.A.C.S. elements** (Subject, Action, Context, Style) to fit your project  
+### Using Prompts
+1. Choose a category that matches your needs
+2. Follow the technical specifications provided
+3. Customize using the S.A.C.S. framework:
+   - **Subject**: Main focus of your generation
+   - **Action**: Movement, pose, or state
+   - **Context**: Environment and supporting elements
+   - **Style**: Visual treatment and artistic direction
+4. Adjust technical parameters as needed
+5. Generate and iterate for best results
 
----
+### Best Practices
+- Follow platform-specific guidelines
+- Use provided technical specifications
+- Consider resolution and format requirements
+- Test and iterate for optimal results
+- Review quality checklists
 
-## 🤝 Contribute
+## 🛠️ Technical Requirements
 
-Want to share your own powerful prompts?  
+### Image Generation
+- Resolution: Up to 8K (7680×4320)
+- Color Space: ProPhoto RGB
+- Bit Depth: 10-bit minimum
+- File Formats: RAW + JPEG/PNG
+- HDR Support: Required for cinematic
 
-1. Fork this repo  
-2. Add your prompt in the correct category file  
-3. Create a Pull Request  
+### 🎎 Figurine Generation Guide
+Create professional collectible figure images with these specifications:
 
-Together, we’ll build the **#1 open-source prompts library** 🎉  
+#### Basic Requirements
+- Resolution: 8K for fine detail
+- Lighting: Professional 3-point setup
+- Background: Studio or lifestyle
+- Props: Display bases, packaging
+- Post-processing: Product photography style
 
----
+#### Example Scenarios
+1. **Studio Display**
+   ```
+   Create a 1/7 scale figurine on crystal acrylic base
+   - Perfect lighting and reflections
+   - Professional packaging visible
+   - Clean studio background
+   ```
 
-## ⭐ Support
+2. **Collector's Scene**
+   ```
+   Show figurine in premium display case
+   - LED accent lighting
+   - Multiple figures arranged
+   - Depth of field control
+   ```
 
-If you find this repo useful:  
-- Star ⭐ the repo on GitHub  
-- Share with your friends  
-- Subscribe on **[YouTube – X Platform Tech](https://www.youtube.com/@xplatformtech)** for weekly dev + AI tutorials  
+3. **Production Setup**
+   ```
+   Display figurine with creation process
+   - 3D software on screens
+   - Tool arrangement
+   - Technical documentation
+   ```
 
----
+#### Key Success Factors
+- Scale accuracy
+- Material simulation
+- Lighting precision
+- Shadow quality
+- Reflection handling
+
+### Platform Support
+- Gemini Pro
+- DALL·E 3
+- Midjourney V6
+- Stable Diffusion XL
+
+## 🤝 Contributing
+
+Help improve this collection:
+
+1. Fork the repository
+2. Add or enhance prompts following our guidelines:
+   - Include technical specifications
+   - Add quality parameters
+   - Provide example outputs
+   - Document best practices
+3. Submit a Pull Request
+
+### Contribution Guidelines
+- Follow prompt structure templates
+- Include technical requirements
+- Add quality control measures
+- Document use cases
+- Provide example outputs
+
+## ⭐ Support & Community
+
+Join our community of AI creators:
+- Star ⭐ and watch the repository
+- Share your generations
+- Discuss techniques
+- Subscribe to **[X Platform Tech](https://www.youtube.com/@xplatformtech)** for:
+  - Advanced AI tutorials
+  - Prompt engineering tips
+  - Technical workflows
+  - Industry insights
 
 ## 📜 License
 
-This project is licensed under the MIT License – feel free to use, modify, and share with attribution.  
+This project is licensed under the MIT License.
+- Commercial use allowed
+- Modification permitted
+- Attribution required
+- Liability limited  
