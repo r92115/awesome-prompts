@@ -6,7 +6,7 @@ Maintained by **[X Platform Tech](https://www.youtube.com/@xplatformtech)** — 
 
 ---
 
-## 📌 Why This Repo?
+## 📌 Why This Repo??
 
 - 📝 Ready-to-use prompt structures crafted for real projects
 - 🎯 Technical specifications, quality checklists, and best practices
